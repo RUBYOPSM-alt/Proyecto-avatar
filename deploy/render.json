@@ -1,0 +1,7 @@
+{
+  "service": "imagym-avatar-backend",
+  "env": "node",
+  "buildCommand": "npm install",
+  "startCommand": "npm run start",
+  "root": "server"
+}
